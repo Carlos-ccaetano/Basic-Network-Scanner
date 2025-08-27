@@ -87,7 +87,7 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades.
 Abra uma **issue** ou envie um **pull request**.
 
 ---
-## Autor
+## 📜 Autor
 Projeto desenvolvido por **Carlos Caetano**.  
 
 
