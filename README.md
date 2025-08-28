@@ -75,7 +75,8 @@ Resultados exportados para scan_results.json
 
 ---
 
-## 🔮 Próximos Passos
+## 📌 Próximas atualizações:
+*(No momento estou envolvido em outros projetos e pesquisas acadêmicas, por isso ainda não finalizei todas as melhorias. Mas seguem algumas ideias futuras — e claro, contribuições são bem-vindas!)*
 - [ ] Adicionar range de portas personalizável.  
 - [ ] Implementar **multithreading** para aumentar a velocidade.  
 - [ ] Suporte a exportação também em CSV.  
@@ -87,8 +88,11 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades.
 Abra uma **issue** ou envie um **pull request**.
 
 ---
-## 📜 Autor
-Projeto desenvolvido por **Carlos Caetano**.  
+## 👤 Autor
+**Carlos Caetano**  
+🔗 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN) | 💻 [GitHub](https://github.com/Carlos-ccaetano)  
+
+---
 
 
 
